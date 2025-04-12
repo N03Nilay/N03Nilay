@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilay Rudra</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **React Js**
+- 🔭 I’m currently skilled at **React Js and Next Js**
 
-- 🌱 I’m currently learning **React Js , Redux**
+- 🌱 I’m currently learning **New frameworks to modify the UI Design**
 
-- 💬 Ask me about **React Js , Javascript**
+- 💬 Ask me about **React Js, Next Js , Javascript**
 
 - 📫 How to reach me **rudranilay03@gmail.com**
 
